@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body {
+  background-color: bisque;
+}
+
+.general_title {
+  color: burlywood;
+  font-size: 50px;
+  text-align: center;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.border {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid burlywood;
+}
+
+.href {
+  color: burlywood;
+}
+
+
+.image {
+  width: 100%;
+}
+
+.imagePO {
+  width: 60%;
+  text-align: center;
+}
+
+.im {
+  text-align: center;
+}
+
+.tape {
+  margin-left: 15%;
+  width: 70%;
+  border: 10px solid burlywood;
+}
+
+.description {
+  color: black;
+  font-size: 20px;
+  text-align: left;
+  max-width: 800px;
+  margin-left: 15%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.form {
+  text-indent: 20px;
+  font-size: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  border: 2px solid black;
+  width: 600px;
+  height: 50px;
+}
+
+.img_form {
+  text-indent: 20px;
+  font-size: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  border: 2px solid black;
+  width: 500px;
+  height: 50px;
+}
+
+.button1 {
+  font-size: 40px;
+  text-align: left;
+  max-width: 800px;
+  margin-left: 15%;
+  margin-top: 100px;
+  margin-bottom: 20px;
+  border: 2px solid black;
+}
+
+button {
+  margin-top: 50px;
+  margin-left: 45%;
+  font-size: 30px;
+  text-align: center;
+}
+
+.img_label {
+  margin-left: 95px;
+}
+
+input {
+  font-size: 30px;
+  size: 150px;
+}
+
+.input_form {
+  margin-left: 18%;
+  margin-right: 18%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  font-size: 20px;
+  color: burlywood;
+}
+
+.tape_title {
+  color: burlywood;
+  font-size: 30px;
+  text-align: center;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+/*.input_form {
+  margin: 50px;
+  text-align: center;
+  font-size: 30px;
+  color: burlywood;
+}*/
